@@ -1,0 +1,9 @@
+.Tilt {
+  background: #03001e;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #ec38bc, #7303c0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #ec38bc, #7303c0);  }
+
+.tilt-img .inner-element {
+    width: 70vw;
+}
+      
